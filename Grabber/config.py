@@ -16,6 +16,6 @@ CHARA_CHANNEL_ID = -1002659827150
 mongo_user = quote_plus("waifu")
 mongo_pass = quote_plus("yash2005@")
 
-MONGO_URL = f"mongodb+srv://{mongo_user}:{mongo_pass}@cluster0.ampo8t7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URL = f"mongodb+srv://sufyan532011:2010@dbz.28ftn.mongodb.net/?retryWrites=true&w=majority&appName=DBZ"
 DATABASE_NAME = "waifu"
 LOG_CHAT_ID = -1002535643821
