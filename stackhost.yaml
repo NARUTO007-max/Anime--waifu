@@ -11,7 +11,7 @@ commands:
   package:
     - "nano inxi"
   start:
-    - "python3 -m main"
+    - "python3 -m Grabber"
 
 env:
   - "ENVIRONMENT=production"
