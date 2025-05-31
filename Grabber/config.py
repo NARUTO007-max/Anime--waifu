@@ -13,9 +13,9 @@ BOT_USERNAME = "Hinatawaifu_bot"
 CHARA_CHANNEL_ID = -1002659827150
 
 # MongoDB credentials — ENCODE them properly
-mongo_user = quote_plus("waifu")
-mongo_pass = quote_plus("yash2005@")
+mongo_user = quote_plus("sufyan532011")
+mongo_pass = quote_plus("2010")
 
 MONGO_URL = f"mongodb+srv://sufyan532011:2010@dbz.28ftn.mongodb.net/?retryWrites=true&w=majority&appName=DBZ"
-DATABASE_NAME = "waifu"
+DATABASE_NAME = "sufyan532011"
 LOG_CHAT_ID = -1002535643821
