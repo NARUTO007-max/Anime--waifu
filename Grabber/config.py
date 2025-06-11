@@ -3,7 +3,7 @@ from urllib.parse import quote_plus
 
 OWNER_ID = 7576729648
 GROUP_ID = "-1002535643821"
-TOKEN = "7929416862:AAHZrKaPqiIEmGf6oemjQT1truMPeQCn2-g"
+TOKEN = "7207574948:AAGRV7Te9gcinmy9hLnPvAOiEzcOYgllDns"
 api_id = 21218274
 api_hash = "3474a18b61897c672d315fb330edb213"
 PHOTO_URL = ["https://files.catbox.moe/oai7m9.mp4"]
